@@ -12,7 +12,7 @@
 - **Independent Collaboration:** X-shaped radio galaxy morphology analysis with postdoctoral researchers
 
 ## 📂 Featured Repositories
-- [**MSc-Leptoquark-Analysis**](#) – SMEFT fits, collider simulations, mass bounds
+- [**MSc-Dissertation-Scalar-Leptoquark-SMEFT**](#) – SMEFT fits, collider simulations, mass bounds
 - [**XRG-Morphology**](#) – Position angle offset measurement & symmetry analysis in radio galaxies
 
 ---
