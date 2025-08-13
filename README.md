@@ -13,7 +13,7 @@
 
 ## 📂 Featured Repositories
 - [**MSc-Dissertation-Scalar-Leptoquark-SMEFT**](https://github.com/Supriyo314/MSc-Dissertation-Scalar-Leptoquark-SMEFT) – SMEFT fits, collider simulations, mass bounds
-- [**XRG-Morphology**](#) – Position angle offset measurement & symmetry analysis in radio galaxies
+
 
 ---
 
