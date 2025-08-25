@@ -2,7 +2,7 @@
 
 🎓 MSc Theoretical Physics @ University of Glasgow  
 🔬 Research: SMEFT, collider phenomenology, Beyond the Standard Model physics  
-🧮 Tools: Python, MadGraph5_aMC@NLO, LaTeX, UFO Model, Mathmatica, High-PT 
+🧮 Tools: Python, MadGraph5_aMC@NLO, LaTeX, UFO Model, Mathmatica, High-PT  
 📊 Interests: Particle Cosmology, Quantum Gravity, Black Hole Physics
 
 ---
